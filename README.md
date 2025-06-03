@@ -1,7 +1,6 @@
 📁 Suggested Repo Structure
 bash
-Copy
-Edit
+
 FinSentX/
 ├── app.py                      # Streamlit app
 ├── train.py                    # Fine-tuning script
@@ -15,8 +14,7 @@ FinSentX/
 └── finbert_output/             # Checkpoints during training
 📄 README.md Template
 markdown
-Copy
-Edit
+
 # 💹 FinSentX: Financial Sentiment Classifier
 
 FinSentX is a fine-tuned financial sentiment classifier based on FinBERT. It classifies financial headlines into **positive**, **neutral**, or **negative** using a fine-tuned model on domain-specific data.
