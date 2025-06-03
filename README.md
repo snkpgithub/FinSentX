@@ -73,16 +73,14 @@ MIT
 
 📝 `requirements.txt` (example)
 
-```txt
+
 transformers
 datasets
 torch
 pandas
 streamlit
 ✅ To push it to GitHub:
-bash
-Copy
-Edit
+
 # 1. Init the repo
 git init
 git add .
