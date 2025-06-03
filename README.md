@@ -82,8 +82,14 @@ streamlit
 ✅ To push it to GitHub:
 
 # 1. Init the repo
+
 git init
+
 git add .
+
 git commit -m "Initial commit: FinSentX sentiment analyzer"
+
 gh repo create snkphugface/FinSentX --public --source=. --push
+
 Requires GitHub CLI (gh) installed & authenticated.
+
