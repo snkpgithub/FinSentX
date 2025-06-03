@@ -81,7 +81,7 @@ pandas
 streamlit
 ✅ To push it to GitHub:
 
-# 1. Init the repo
+ Init the repo from your source folder
 
 git init
 
