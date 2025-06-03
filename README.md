@@ -1,8 +1,5 @@
 📁 Suggested Repo Structure
-bash
-markdown
 
-'''
 FinSentX/
 ├── app.py                      # Streamlit app
 ├── train.py                    # Fine-tuning script
@@ -14,7 +11,6 @@ FinSentX/
 ├── finbert_sentiment_model/    # Final model + tokenizer
 ├── processed_finphrase_dataset/ # Tokenized HF dataset
 └── finbert_output/             # Checkpoints during training
-'''
 📄 README.md Template
 markdown
 
