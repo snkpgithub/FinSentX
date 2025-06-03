@@ -57,7 +57,7 @@ Cleaned and tokenized using `transformers` `AutoTokenizer`.
 
 ## 🛠 Dependencies
 
-```bash
+
 pip install -r requirements.txt
 🤝 Credits
 FinBERT
@@ -69,13 +69,9 @@ Streamlit
 📘 License
 MIT
 
-yaml
-Copy
-Edit
-
 ---
 
-## 📝 `requirements.txt` (example)
+📝 `requirements.txt` (example)
 
 ```txt
 transformers
