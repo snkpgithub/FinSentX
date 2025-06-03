@@ -1,5 +1,7 @@
 📁 Suggested Repo Structure
 bash
+markdown
+
 '''
 FinSentX/
 ├── app.py                      # Streamlit app
